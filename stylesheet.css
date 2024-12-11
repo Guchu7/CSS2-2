@@ -1,0 +1,233 @@
+#body {
+max-width: 1920px;
+max-height: 1499px;
+background: #FFF;
+margin: 0;
+}
+
+#header {
+    max-width: 100%;
+    background-color: #fff;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+#main {
+
+    margin-left: 390px;
+    margin-top: 12px;
+}
+
+#navigation {
+    max-width: 100%;
+    margin-right: 390px;
+    margin-top: 12px;
+
+}   
+
+#nav-links {
+    display: inline-block;
+    margin: 0 auto;
+    list-style-type: none;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+#nav-links a{
+    text-decoration: none;
+    color: black;
+    font-family: "Inter";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0 auto;
+
+}
+
+#nav-links li {
+    display: inline;
+    margin-right: 20px;
+}
+
+#pink a{
+    color: #FF5DA3;
+font-family: "Inter";
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+  #contact-button {
+    color: #FFF;
+font-family: "Inter";
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+display: flex;
+max-width: 105px;
+max-height: 35px;
+padding: 8px 16px;
+justify-content: center;
+align-items: center;
+border-radius: 8px;
+background: #00AC25;
+display: inline-block;
+margin-left: auto;
+  }
+
+  #navbar {
+    margin: 0 auto;
+    margin-left: 400px;
+    margin-top: 15px;
+  }
+
+
+#container {
+    max-width: 100%;
+
+}
+
+#main-info {
+max-width: 100%;
+margin: 0 auto;
+margin-top: 233px;
+
+
+
+}
+
+#text {
+    color: #000;
+text-align: center;
+font-family: "Inter";
+font-size: 72px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin: 0 auto;
+max-width: 100%;
+
+}
+
+span {
+    color: #FF5DA3;
+font-family: "Inter";
+font-size: 72px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin: 0 auto;
+max-width: 100%;
+
+}
+
+#text-two {
+    color: #000;
+text-align: center;
+font-family: "IBM Plex Sans KR";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 133.333% */
+max-width: 100%;
+}
+
+#block {
+width: 1316px;
+flex-direction: column;
+align-items: center;
+margin-left: 100px;
+margin: 0 auto;
+}
+
+#text-three {
+    align-self: stretch;
+    color: #000;
+text-align: center;
+font-family: "Instrument Sans";
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+#text-four {
+max-width: 700px;
+    color: #6941C6;
+text-align: center;
+font-family: "Hind Vadodara";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 133.333% */
+margin: 0 auto;
+
+}
+
+#become {
+    color: #FFF;
+font-family: "Inter";
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+display: flex;
+padding: 16px 24px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #00AC25;
+width: 15%;
+margin: 0 auto;
+margin-top: 34px;
+
+}
+
+#navfoot a{
+    color: #E9D7FE;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+#nav-foots {
+display: inline-block;
+}
+
+#nav-foots li {
+    display: inline;
+    margin-right: 20px;
+}
+
+#foot-text {
+    color: #D6BBFB;
+text-align: right;
+display: inline-block;
+font-style: normal;
+font-weight: 400;
+
+}
+
+#navfoot {
+    background: #6941C6;
+    margin-top: 535px;
+    max-width: 100%;
+    text-align: center;
+    padding: 25px
+}
+
+#navfoot img {
+vertical-align: middle;
+}
